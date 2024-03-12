@@ -1,11 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "userAvatar.png",
+      "filename" : "userAvatar 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "userAvatar.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
